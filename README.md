@@ -2,24 +2,20 @@
 
 Welcome! Before you start coding, let's set up your development environment. This involves installing a few essential tools.
 
----
 
 ## 1. Code Editor
 
 - **Recommendation:** [**Visual Studio Code (VS Code)**](https://code.visualstudio.com/)
 
----
 
 ## 2. Web Browser
 
 - **Recommendation:** [**Google Chrome**](https://www.google.com/chrome/)
 
----
 
 ## 3. Version Control System (Git)
 
 - **Recommendation:** [**Git**](https://git-scm.com/)
----
 
 ## 4. Node.js and npm (via NVM)
 
@@ -52,8 +48,6 @@ Welcome! Before you start coding, let's set up your development environment. Thi
   npm -v
   ```
   You should see the version numbers for both Node.js (matching the LTS you installed) and npm.
-
----
 
 ## Ready to Go!
 
